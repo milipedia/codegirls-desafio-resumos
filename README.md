@@ -1,4 +1,5 @@
 Meus Apontamentos sobre AWS - Módulos 1 & 2
+
 Este repositório serve como um resumo dos principais pontos aprendidos durante os módulos 1 e 2 do curso de AWS. O objetivo é consolidar o conhecimento sobre a infraestrutura global da AWS e os conceitos fundamentais de computação com o serviço EC2.
 
 Módulo 1: Fundamentos e Infraestrutura Global da AWS
